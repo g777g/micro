@@ -41,6 +41,8 @@
      {
        "colorscheme": "catppuccin-frappe"
       }
+4. in micro tipe: ctrl + e
+     set colorschemes catppuccin-frappe
 
 ## 💝 Thanks to
 
